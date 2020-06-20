@@ -1,7 +1,7 @@
 # Spring2015_Management_Info_Systems_Course
 A collection of assignments I completed for my undergraduate level Management Information Systems Course
 
-Each assignment/examination is broken up into a separate branch.
+Each assignment is broken up into a separate branch.
 
 Included in each branch is:
 * A README file outlining the assignment
