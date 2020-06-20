@@ -1,5 +1,5 @@
 # Spring2015_Management_Info_Systems_Course
-A collection of assignments I completed for my undergraduate level Management Information Systems Course
+A collection of assignments I completed for my undergraduate level management information systems course
 
 Each assignment is broken up into a separate branch.
 
